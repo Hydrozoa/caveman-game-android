@@ -13,7 +13,7 @@ import android.view.Window;
 
 public class LaunchGame extends Activity{
 
-	PlayView game;
+	private PlayView game;
 	
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub		
