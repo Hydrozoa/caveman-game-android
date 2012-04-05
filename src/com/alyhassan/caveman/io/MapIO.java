@@ -15,7 +15,7 @@ import android.os.Environment;
 import android.util.Log;
 
 public class MapIO {
-		
+		//When we went to Banff, Frank kept spooning Eric in bed. This method returns a Boardx object.
 	public static Boardx getBoard(String name){
 		int[][] tiles = new int[Boardx.BOARD_ROWS][Boardx.BOARD_COLS];
 		
