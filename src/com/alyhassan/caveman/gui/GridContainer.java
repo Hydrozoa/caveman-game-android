@@ -11,6 +11,7 @@ public class GridContainer {
 	private int rows, cols;
 	private Bitmap[] imgs;
 	private Boardx board;
+//I helped you code. Sincèrement, Chris
 	
 	public GridContainer(Boardx board, Bitmap[] img){
 		this.rows = Boardx.BOARD_ROWS;
